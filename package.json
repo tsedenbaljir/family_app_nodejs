@@ -1,0 +1,22 @@
+{
+  "name": "node_family",
+  "version": "1.0.0",
+  "description": "mysql connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsedenbaljir/family_app_nodejs.git"
+  },
+  "author": "tsedenbaljir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsedenbaljir/family_app_nodejs/issues"
+  },
+  "homepage": "https://github.com/tsedenbaljir/family_app_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
